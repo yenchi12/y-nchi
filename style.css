@@ -3,3 +3,11 @@ form
   background-color: #F0F8FF
   width: 300px;
 }
+head
+{
+  h2 {color: firebrick; font-family: Verdanan}
+  h3 {color: indianred;}
+  label {font-size: 15px; font-weight: bold}
+  input {background-color: yellow;}
+  textarea {background-color: ivory;}
+}
