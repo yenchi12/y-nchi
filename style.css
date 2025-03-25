@@ -11,3 +11,9 @@ head
   input {background-color: yellow;}
   textarea {background-color: ivory;}
 }
+body{ padding: 25px; }
+.title{ color: red;}
+.header{ color: red; background-color: light grey;
+        text-align: center;
+        padding:25px; }
+  
